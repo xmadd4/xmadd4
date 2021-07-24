@@ -1,7 +1,7 @@
 ## Hey 👋, This is [Ahmad sec](https://afumado.ninja)
 
   I'am 16 years old
-  Leader of Sacred Devil Team & [Ghost Coder](https://github.com/ghostcoder) Founder
+  Leader of Sacred Devil Team & [Ghost Coder](https://github.com/gh05tc0der) Founder
   
 [![Gmail Badge](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sacreddevilxploit@gmail.com)](mailto:sacreddevilxploit@gmail.com) 
 [![Github Badge](https://img.shields.io/badge/-Github-grey?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/xmadd4/)](https://www.github.com/xmadd4/)
